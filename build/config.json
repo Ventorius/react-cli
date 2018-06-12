@@ -1,0 +1,11 @@
+{
+    "defaultComponentType": "functional",
+    "componentFileExtension": "js",
+    "createComponentInDirectory": true,
+    "componentsDirectoryPath":"src/components",
+    "viewsDirectoryPath":"src/views",
+    "withPropTypes": true,
+    "semicolons": false,
+    "wrapComponentInCatalogue": false
+    
+}
